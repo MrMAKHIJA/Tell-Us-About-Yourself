@@ -1,2 +1,29 @@
-# Tell-Us-About-Yourself
-Tell Us About Yourself is a web-based application designed to collect user information through a user-friendly interface. This project demonstrates the integration of front-end and back-end technologies, making it a great example for intermediate web developers. The project was created with the assistance of Microsoft Copilot.
+# Tell Us About Yourself
+
+## Project Overview
+*Tell Us About Yourself* is a web-based application that allows users to input their personal information through a user-friendly interface. This project demonstrates the use of HTML, CSS, JavaScript, and Python for creating a full-stack application. The project was created with the assistance of Microsoft Copilot.
+
+## Features
+- User-friendly interface
+- Input fields for name, email, age, gender, and comments
+- Responsive design for various devices
+- Backend processing with Python
+
+## Technologies Used
+- HTML (index.html)
+- CSS (styles.css)
+- JavaScript (script.js)
+- Python (script.py, app.py)
+
+## Getting Started
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+- A web browser (e.g., Google Chrome, Mozilla Firefox)
+- A code editor (e.g., Visual Studio Code)
+- Python installed on your machine
+
+### Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/yourusername/tell-us-about-yourself.git 
