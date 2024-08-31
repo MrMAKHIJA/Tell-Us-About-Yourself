@@ -1,7 +1,7 @@
 # Tell Us About Yourself
 
 ## Project Overview
-*Tell Us About Yourself* is a web-based application that allows users to input their personal information through a user-friendly interface. This project demonstrates the use of HTML, CSS, JavaScript, and Python for creating a full-stack application. The project was created with the assistance of Microsoft Copilot.
+*Tell Us About Yourself* is a web-based application that allows users to input their personal information through a user-friendly interface. This project demonstrates the use of HTML, CSS And JavaScript. project was created with the assistance of Microsoft Copilot.
 
 ## Features
 - User-friendly interface
